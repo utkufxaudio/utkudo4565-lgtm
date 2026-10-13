@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm an Electrical & Electronics Engineering Student & Audio Hardware Developer 👋⚡🎸
 
-<!--
-**utkudo4565-lgtm/utkudo4565-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between **electronics engineering** and **music production**. My work focuses on analog circuit design, embedded programming, and professional guitar performance—combining hardware engineering with musical craftsmanship.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Engineering & Audio Electronics
+* **Circuit & Hardware Design:** Specialized in audio electronics, custom analog guitar effect pedals, and signal conditioning circuits.
+* **Low-Level & Software Development:** Proficient in **C**, **Python**, and **Assembly** for microcontroller programming, hardware control, and algorithmic applications.
+* **Custom Gear:** From schematic design and prototyping to full-scale custom guitar pedal builds.
+
+### 🎸 Music Production & Guitar Services
+* **Session Guitarist:** Recording studio-quality electric guitar tracks, solos, and rhythm sections for albums and singles.
+* **Backing Tracks & Arrangement:** Composing and producing custom guitar backing tracks and instrumental foundations.
+* **Guitar Instruction:** Providing 1-on-1 electric guitar lessons tailored to technique, tone shaping, and music theory.
+
+---
+
+### 💼 Open for Collaborations & Freelance Projects
+Whether you need a **custom-designed guitar pedal circuit**, **embedded C/Assembly development**, or **professional guitar recordings** for your next project, feel free to reach out!
